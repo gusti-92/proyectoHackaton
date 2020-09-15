@@ -1,0 +1,67 @@
+
+
+body{
+   background-image: url(https://pbs.twimg.com/profile_images/591309300296982529/V7AwtyE9_400x400.jpg);
+
+
+
+
+}
+
+
+img{
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.juego{
+    border: solid springgreen;
+    background: gold;
+    margin-top: 20px;    
+
+}
+
+footer{
+    background-color: rgb(33, 159, 163);
+    margin-top: 250px;
+    color: black;
+}
+
+.linkfooter{
+    color: rgb(243, 13, 13);
+
+}
+    
+h5{
+    text-align: center;
+}
+
+.comprar{
+    text-align: center;
+}
+
+.juego_compra{
+    font-size: 60px;
+    color: blanchedalmond;
+    text-align: center;
+    background-color: darkblue;
+    margin-top: 23%;
+}
+
+
+#formulario{
+    text-align: center;
+    font-size: 25px;
+    color: orange;
+    background-image: url(https://media-exp1.licdn.com/dms/image/C561BAQHS_jjhFfXrVw/company-background_10000/0?e=2159024400&v=beta&t=Qbs7JImjd32rQsgKP81xw9KiyXVjlarWgytoX9IBakk);
+
+
+}
+
+#console{
+    margin-bottom: 5px;
+}
